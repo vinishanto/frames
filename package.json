@@ -1,0 +1,30 @@
+{
+  "name": "frames",
+  "version": "1.0.0",
+  "description": "JQuery plugin for Animation based on frames",
+  "main": "frames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinishanto/frames.git"
+  },
+  "keywords": [
+    "animation",
+    "frames",
+    "jQuery",
+    "plugin"
+  ],
+  "author": "anto.s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinishanto/frames/issues"
+  },
+  "homepage": "https://github.com/vinishanto/frames",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
